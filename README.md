@@ -79,6 +79,17 @@ npm run dev
 npm run build
 pm2 start dist/index.js --name "vps-bot"
 pm2 save
+```
+
+---
+
+## 📸 Screenshots (صور من البوت)
+
+<div align="center">
+  <img src="assets/main_menu.png" alt="Main Menu" width="45%" style="margin-right: 5%;">
+  <img src="assets/advanced_menu.png" alt="Advanced Menu" width="45%">
+</div>
+
 ---
 
 ## 🤝 Contributing
