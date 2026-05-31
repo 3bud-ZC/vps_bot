@@ -79,14 +79,6 @@ npm run dev
 npm run build
 pm2 start dist/index.js --name "vps-bot"
 pm2 save
-```
-
----
-
-## 📸 Screenshots (صور من البوت)
-
-*(Add screenshots of your bot here: Dashboard, Charts, Terminal, File Explorer)*
-
 ---
 
 ## 🤝 Contributing
